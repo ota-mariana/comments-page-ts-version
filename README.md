@@ -1,7 +1,7 @@
 # Página de Feedback do Ignite
 
-## 💻 Sobre o projeto
-<div id='sobre-o-projeto'/> 
+<div id='sobre-o-projeto'/>
+## 💻 Sobre o projeto 
 
 Uma aplicação web responsiva em React utilizando Vite e Typescript que permite os usuários a comentar, curtir e deletar nos posts publicados.
 
@@ -9,8 +9,8 @@ Nesse primeiro projeto desenvolvido no curso do Ignite da Rocketseat, conceitos 
 
 ---
 
-## ⚙️ Funcionalidades
-<div id='funcionalidades'/> 
+<div id='funcionalidades'/>
+## ⚙️ Funcionalidades 
 
 - [x] Pessoas podem interagir no campo de comentários dos posts:
   - [x] adicionar suas ideias e feedbacks
@@ -19,8 +19,8 @@ Nesse primeiro projeto desenvolvido no curso do Ignite da Rocketseat, conceitos 
 
 ---
 
-## 🎨 Layout
-<div id='layout'/> 
+<div id='layout'/>
+## 🎨 Layout 
 
 ### Mobile
 
@@ -37,7 +37,7 @@ Nesse primeiro projeto desenvolvido no curso do Ignite da Rocketseat, conceitos 
 ---
 
 ## Tabela de conteúdos
-=================
+
 <!--ts-->
    * [Sobre o projeto](#sobre-o-projeto)
    * [Funcionalidades](#funcionalidades)
