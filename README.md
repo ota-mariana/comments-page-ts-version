@@ -8,8 +8,7 @@ Nesse primeiro projeto desenvolvido no curso do Ignite da Rocketseat, conceitos 
 
 ---
 
-<div id='funcionalidades'/>
-## ⚙️ Funcionalidades 
+## ⚙️ Funcionalidades <div id='funcionalidades'/>
 
 - [x] Pessoas podem interagir no campo de comentários dos posts:
   - [x] adicionar suas ideias e feedbacks
@@ -18,8 +17,7 @@ Nesse primeiro projeto desenvolvido no curso do Ignite da Rocketseat, conceitos 
 
 ---
 
-<div id='layout'/>
-## 🎨 Layout 
+## 🎨 Layout <div id='layout'/>
 
 ### Mobile
 
