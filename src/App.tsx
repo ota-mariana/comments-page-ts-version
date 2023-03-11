@@ -28,9 +28,9 @@ const posts: PostType[] = [
       role: 'CTO @Rocketseat',
     },
     content: [
-      { type: 'paragraph', content: 'Hellooo people!' },
-      { type: 'paragraph', content: 'Acabei de finalizar mais um projeto do Ignite.' },
-      { type: 'link', content: 'Link do repositório' },
+      { type: 'paragraph', content: 'Booaaa Marii!' },
+      { type: 'paragraph', content: 'Espero que os conteúdos de React tenham ajudado.' },
+      { type: 'paragraph', content: 'Qualquer dúvida é só chamar!.' },
     ],
     publishedAt: new Date('2023-03-10 22:45:00'),
   },
