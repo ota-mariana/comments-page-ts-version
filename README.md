@@ -1,7 +1,6 @@
 # Página de Feedback do Ignite
 
-<div id='sobre-o-projeto'/>
-## 💻 Sobre o projeto 
+## 💻 Sobre o projeto <div id='sobre-o-projeto'/>
 
 Uma aplicação web responsiva em React utilizando Vite e Typescript que permite os usuários a comentar, curtir e deletar nos posts publicados.
 
@@ -100,7 +99,7 @@ $ npm run dev
 ## 🦸 Autor
 <div id='autor'/> 
 
-<img style="border-radius: 50%;" src="https://github.com/ota-mariana.png" width="100px;" alt=""/>
+<img style="border-radius: 100%;" src="https://github.com/ota-mariana.png" width="100px;" alt=""/>
 <br />
 <p>Mariana Naomi Ota</p>
 
